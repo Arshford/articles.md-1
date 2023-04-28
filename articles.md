@@ -1,4 +1,5 @@
-- What domain name extensions can I host
+# Articles List
+[x] What domain name extensions can I host
 - Why .ZA domain nameservers are not changing
 - What to do when my domain is in Pending Review status
 - How do I verify domain ownership
