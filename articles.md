@@ -1,7 +1,118 @@
 # Articles List
-
+- [ ] How to generate a website backup from other providers
+- [ ] How to backup a website at Bluehost
+- [ ] How to backup a website at Hostgator
+- [ ] How to backup a website at GoDaddy
+- [ ] How to backup a website at Hostinger
+- [ ] My website shows Olitt Landing Page, what do I do next?
+- [ ] How to connect Google Analytics with your Wordpress website
+- [ ] Limits on Truehost Business Email
+- [ ] Sending Mass Mail at Truehost Cloud
+- [ ] How to check email headers for cPanel emails
+- [ ] How to check email headers for Truehost Business Email
+- [ ] How to check access logs in cPanel
+- [ ] How to check error logs in cPanel
+- [ ] How to create a forwarder in Truehost Business Email
+- [ ] How to set up email aliases in Truehost Business Email
+- [ ] How to set up emails in iOS
+- [ ] How to set up emails in MacOS
+- [ ] How to set yo Easy WP SMTP plugin in Wordpress
+- [ ] How to set up email accounts in Thunderbird
+- [ ] How to set up Zoho Mails in cPanel
+- [ ] How to set up Zoho Mails on Olitt DNS
+- [ ] How to set up Gsuite Mails in cPanel
+- [ ] How to set up Gsuite Mails on Olitt DNS
+- [ ] How to migrate emails from Gmail to Truehost Business Email
+- [ ] How to migrate emails from cPanel to Truehost Business Email
+- [ ] How to secure webmail link in Windows Plesk Hosting
+- [ ] How to clear trash bin in my cPanel
+- [ ] How to know if my wordpress website is compromised
+- [ ] How to prevent ANY changes to my website files
+- [ ] What is KVM virtualization
+- [ ] Why to purchase VPS packages
+- [ ] How to set up LAMPP Stack on Ubuntu 20.04
+- [ ] How to set up LAMPP Stack on Centos 8
+- [ ] How to set up LEMP Stack on Ubuntu 20.04
+- [ ] How to set up LEMP Stack on Centos 8
+- [ ] How to point a domain name to my VPS
+- [ ] How to install free SSL on a VPS using certbot
+- [ ] How to fix 'Your connection is not private' when logging in to CWP
+- [ ] How to fix 'Your connection is not private' when logging in to Cyberpanel
+- [ ] How to install Webuzo control panel
+- [ ] How to login to a Windows Server from your computer(Windows/Linux/Mac)
+- [ ] What to do if your VPS has been hacked
+- [ ] How to know if my VPS has been hacked
+- [ ] How to check VPS resource usage from the VPS panel in client area
+- [ ] How to check RAM and CPU usage in my VPS
+- [ ] How to use the Truehost Doctor script to diagnose Server issues
+- [ ] How to backup my VPS from client area
+- [ ] How to restore my VPS from client area
+- [ ] How to recover MySQL databases from MySQL data files in VPS?
+- [ ] How to set custom DNS resolvers in my VPS
+- [ ] How to enable allow_url_fopen() for php in CWP
+- [ ] How to enable allow_url_fopen() for php in Cyberpanel
+- [ ] How to enable allow_url_fopen() for php in cPanel
+- [ ] How to harden PHP on my VPS
+- [ ] How to resolve upload error in Cyberpanel 
+- [ ] How to start MySQL while in rescue mode
+- [ ] How to backup all MySQL databases
+- [ ] How to migrate your website from cPanel to DirectAdmin
+- [ ] How to host a python application on Ubuntu 20.04
+- [ ] How to host a nodejs application on Ubuntu 20.04
+- [ ] How to know when my domain has propagated
+- [ ] How to create a subdomain in cPanel
+- [ ] How to point a domain to Odoo
+- [ ] How to point a domain to Google Sites
+- [ ] How to point a domain to Wix
+- [ ] How to check if my domain is eligible for transfer
+- [ ] How to download my invoices
+- [ ] How to cancel a subscription
+- [ ] How to enable automatic renewal of my subscriptions
+- [ ] How to disable automatic renewal of my subscriptions
+- [ ] How to add a contact details for a school domain name
+- [ ] How to request a refund from Truehost Cloud
+- [ ] How to check which email is spamming from my account
+- [ ] How to change wordpress URL using a plugin
+- [ ] How to update your wordpress password using WP-CLI
+- [ ] How to clear Litespeed Cache
+- [ ] How to secure the wordpress admin dashboard
+- [ ] How to identify overload causes in wordpress websites (https://support.hostinger.com/en/articles/7043577-how-to-identify-overload-causes-on-wordpress-websites)
+- [ ] How to change wordpress theme via phpMyAdmin
+- [ ] How to create a staging environment for your wordpress using softaculous
+- [ ] My Website is blocked by Facebook (https://support.hostinger.com/en/articles/4664877-my-website-is-blocked-by-facebook)
+- [ ] My Website Does not show featured images when shared on social media
+- [ ] How to optimize your website for greater speed
+- [ ] How to fix error 403 forbidden Error in Wordpress
+- [ ] How to fix Error 500 in Laravel
+- [ ] How do I submit my website to Google for indexing
+- [ ] How to add a domain to Bing Search Console
+- [ ] How to add a domain to Google Search Console
+- [ ] How to move a website from my Truehost Account to another Truehost Account
+- [ ] How to force HTTP to HTTPS redirect in Wordpress
+- [ ] How to force HTTP to HTTPS redirect in CodeIgnitor
+- [ ] How to force HTTP to HTTPS redirect in Prestashop
+- [ ] How to force HTTP to HTTPS redirect in OpenCart
+- [ ] How to force HTTP to HTTPS redirect in Joomla
+- [ ] How to resolve 'Your website redirected too many times' SSL error
+- [ ] How to request affiliate withdrawal
+- [ ] How to sign up for the affiliate program
+- [ ] How to check website overload causes in cPanel
+- [ ] How to create a zip file in cPanel
+- [ ] How to check inode usage in cPanel
+- [ ] How to upgrade pip in cPanel
+- [ ] How to generate a requirements.txt for python apps
+- [ ] How to add SSH keys to Github/Gitlab
+- [ ] What are the official Truehost email addresses
+- [ ] Where are Truehost's servers located
+- [ ] How to host an external domain at Truehost Cloud
+- [ ] What are the requirements to register a new domain
+- [ ] How do I get EPP code from Bluehost
+- [ ] How do I get EPP code from Hostgator
+- [ ] How do I get EPP code from Hostinger
+- [ ] How do I get EPP code from GoDaddy
+- [ ] Why am I receiving emails and WhatsApp messages as soon as I register my .com domain
 - [x] What domain name extensions can I host
-- [ ] Why .ZA domain nameservers are not changing
+- [x] Why .ZA domain nameservers are not changing
 - [x] What to do when my domain is in Pending Review status
 - [x] How do I verify domain ownership
 - [x] Adding Google Blogger DNS records
