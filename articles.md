@@ -1,63 +1,64 @@
 # Articles List
+
 - [x] What domain name extensions can I host
-- [] Why .ZA domain nameservers are not changing
-- What to do when my domain is in Pending Review status
-- How do I verify domain ownership
-- *Adding Google Blogger DNS records
-- *Adding Shopify DNS records
-- What happens when a domain expires
-- How to transfer a .co.uk domain to Truehost
-- How to restore emails from Jetbackup
-- How to connect my email to Outlook
-- How to check delivery report for my email
-- How to Troubleshoot Email Bounce Back using Track Delivery
-- *How to create an email filter in cPanel [Updated]
-- How to connect my email to Thunderbird
-- How to connect my email to Gmail on my Web Browser [AVAILABLE_ALREADY]
-- How to connect my email to Gmail for Android
-- How to connect my email to Bluemail
-- How to connect my email to Mac OS
-- How to migrate emails to Cloudoon Mail Service
-- How to add your domain to Cloudflare
-- How to check disk usage on a VPS
-- How to deploy a NodeJS Application on cPanel [[AVAILABLE_ALREADY]]
-- How to deploy a Flask App on a VPS using SSH
-- How to deploy a Django App on a VPS using SSH
-- How to use SmarTTY for SSH access.
-- How to upload files using SmarTTY
-- How to Generate a CSR via SSH
-- How to install SSL on Apache Web Server
-- How to install SSL on Nginx Web Server
-- How to test SSL validity
-- How to install Webuzzo
-- How to install wordpress on Cyberpanel [AVAILABLE_ALREADY]
-- How to install free SSL on Cyberpanel [AVAILABLE_ALREADY]
-- How to install free SSL on CWP
-- How to delist your VPS IP from blacklist
-- How to clear browser cache
-- How to clear network cache
-- How to turn on PHP error messages in cPanel
-- How to turn on PHP error messages in CWP
-- How to view errors on a Python App
-- How to enable remote MySQL access
-- How to fix database connection errors
-- How to Create a full cPanel Backup.[AVAILABLE_ALREADY]
-- How to create MySQL backup from SSH
-- How to restore my cPanel account using Jetbackup.
-- How to restore specific files in cPanel using Jetbackup
-- How to request delisting of my blocklisted IP
-- How to register for Affliate Program
-- How to request withdrawal of affiliate balance
-- How to check my invoice status in Client Area
-- List of PHP functions disabled in shared hosting
-- How to access the wordpress dashboard
-- How to disable a plugin in wordpress
-- How to install Moodle
-- How to backup Moodle
-- How to upgrade Moodle 
-- How To Update Your WordPress Installation
-- How to clean up my Wordpress website
-- How to remove the Google Red Deceptive Website page
-- How to connect your webmail email to Outlook
-- How to connect Cloudoon Email to Outlook
-- How to Repair an Email Connection in Microsoft Outlook
+- [ ] Why .ZA domain nameservers are not changing
+- [x] What to do when my domain is in Pending Review status
+- [x] How do I verify domain ownership
+- [x] Adding Google Blogger DNS records
+- [x] Adding Shopify DNS records
+- [x] What happens when a domain expires
+- [x] How to transfer a .co.uk domain to Truehost
+- [x] How to restore emails from Jetbackup
+- [x] How to connect my email to Outlook
+- [x] How to check delivery report for my email
+- [x] How to Troubleshoot Email Bounce Back using Track Delivery
+- [x] *How to create an email filter in cPanel [Updated]
+- [x] How to connect my email to Thunderbird
+- [x] How to connect my email to Gmail on my Web Browser [AVAILABLE_ALREADY]
+- [x] How to connect my email to Gmail for Android
+- [x] How to connect my email to Bluemail
+- [x] How to connect my email to Mac OS
+- [x] How to migrate emails to Cloudoon Mail Service
+- [x] How to add your domain to Cloudflare
+- [x] How to check disk usage on a VPS
+- [x] How to deploy a NodeJS Application on cPanel [[AVAILABLE_ALREADY]]
+- [x] How to deploy a Flask App on a VPS using SSH
+- [x] How to deploy a Django App on a VPS using SSH
+- [x] How to use SmarTTY for SSH access.
+- [x] How to upload files using SmarTTY
+- [x] How to Generate a CSR via SSH
+- [x] How to install SSL on Apache Web Server
+- [x] How to install SSL on Nginx Web Server
+- [x] How to test SSL validity
+- [x] How to install Webuzzo
+- [x] How to install wordpress on Cyberpanel [AVAILABLE_ALREADY]
+- [x] How to install free SSL on Cyberpanel [AVAILABLE_ALREADY]
+- [x] How to install free SSL on CWP
+- [x] How to delist your VPS IP from blacklist
+- [x] How to clear browser cache
+- [x] How to clear network cache
+- [x] How to turn on PHP error messages in cPanel
+- [x] How to turn on PHP error messages in CWP
+- [x] How to view errors on a Python App
+- [x] How to enable remote MySQL access
+- [x] How to fix database connection errors
+- [x] How to Create a full cPanel Backup.[AVAILABLE_ALREADY]
+- [x] How to create MySQL backup from SSH
+- [x] How to restore my cPanel account using Jetbackup.
+- [x] How to restore specific files in cPanel using Jetbackup
+- [x] How to request delisting of my blocklisted IP
+- [x] How to register for Affliate Program
+- [x] How to request withdrawal of affiliate balance
+- [x] How to check my invoice status in Client Area
+- [x] List of PHP functions disabled in shared hosting
+- [x] How to access the wordpress dashboard
+- [x] How to disable a plugin in wordpress
+- [x] How to install Moodle
+- [x] How to backup Moodle
+- [x] How to upgrade Moodle 
+- [x] How To Update Your WordPress Installation
+- [x] How to clean up my Wordpress website
+- [x] How to remove the Google Red Deceptive Website page
+- [x] How to connect your webmail email to Outlook
+- [x] How to connect Cloudoon Email to Outlook
+- [x] How to Repair an Email Connection in Microsoft Outlook
