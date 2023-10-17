@@ -166,7 +166,9 @@
 - [x] How to disable a plugin in wordpress
 - [x] How to install Moodle
 - [x] How to backup Moodle
-- [x] How to upgrade Moodle 
+- [ ] How to restore files with jetbackup5. <https://www.knownhost.com/kb/how-to-restore-specific-files-directory-backup-using-jetbackup-5/>
+- [x] How to upgrade Moodle
+- [ ] How to restore full cpanel backup with jetbackup5. <https://docs.jetbackup.com/v5.2/userpanel/restoreAndDownload.html>
 - [x] How To Update Your WordPress Installation
 - [x] How to clean up my Wordpress website
 - [x] How to remove the Google Red Deceptive Website page
